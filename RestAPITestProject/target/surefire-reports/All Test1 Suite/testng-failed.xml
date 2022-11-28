@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test1 Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="C:/Users/sapna.gour/IdeaProjects/RestAPITestProject/src/test/java/Test1(failed)" verbose="0">
+    <classes>
+      <class name="RestAPITestProject.RestAPITest">
+        <methods>
+          <include name="doGet"/>
+          <include name="doPost"/>
+          <include name="doDelete"/>
+          <include name="endTestMethod"/>
+          <include name="setUp"/>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- RestAPITestProject.RestAPITest -->
+    </classes>
+  </test> <!-- C:/Users/sapna.gour/IdeaProjects/RestAPITestProject/src/test/java/Test1(failed) -->
+</suite> <!-- Failed suite [All Test1 Suite] -->

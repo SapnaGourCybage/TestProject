@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test1 Suite"><test verbose="2" preserve-order="true" name="C:/Users/sapna.gour/IdeaProjects/RestAPITestProject/src/test/java/Test1">
+    <classes>
+        <class name="RestAPITestProject.RestAPITest" />
+    </classes>
+</test>
+</suite>

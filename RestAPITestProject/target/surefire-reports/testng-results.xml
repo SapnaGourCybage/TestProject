@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-28T17:16:55 IST" name="All Test1 Suite" finished-at="2022-11-28T17:17:03 IST" duration-ms="8025">
+    <groups>
+    </groups>
+    <test started-at="2022-11-28T17:16:55 IST" name="C:/Users/sapna.gour/IdeaProjects/RestAPITestProject/src/test/java/Test1" finished-at="2022-11-28T17:17:03 IST" duration-ms="8025">
+      <class name="RestAPITestProject.RestAPITest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:RestAPITestProject.RestAPITest@3901d134]" started-at="2022-11-28T17:16:54 IST" name="setUp" finished-at="2022-11-28T17:16:55 IST" duration-ms="1298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initialize()[pri:0, instance:RestAPITestProject.RestAPITest@3901d134]" started-at="2022-11-28T17:16:55 IST" name="initialize" finished-at="2022-11-28T17:16:55 IST" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="doPost()[pri:1, instance:RestAPITestProject.RestAPITest@3901d134]" started-at="2022-11-28T17:16:55 IST" name="doPost" finished-at="2022-11-28T17:17:00 IST" duration-ms="4469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doPost -->
+        <test-method is-config="true" signature="endTestMethod()[pri:0, instance:RestAPITestProject.RestAPITest@3901d134]" started-at="2022-11-28T17:17:00 IST" name="endTestMethod" finished-at="2022-11-28T17:17:00 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTestMethod -->
+        <test-method signature="doGet()[pri:2, instance:RestAPITestProject.RestAPITest@3901d134]" started-at="2022-11-28T17:17:00 IST" name="doGet" finished-at="2022-11-28T17:17:01 IST" duration-ms="1259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doGet -->
+        <test-method is-config="true" signature="endTestMethod()[pri:0, instance:RestAPITestProject.RestAPITest@3901d134]" started-at="2022-11-28T17:17:01 IST" name="endTestMethod" finished-at="2022-11-28T17:17:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTestMethod -->
+        <test-method signature="doDelete()[pri:3, instance:RestAPITestProject.RestAPITest@3901d134]" started-at="2022-11-28T17:17:01 IST" name="doDelete" finished-at="2022-11-28T17:17:03 IST" duration-ms="1943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doDelete -->
+        <test-method is-config="true" signature="endTestMethod()[pri:0, instance:RestAPITestProject.RestAPITest@3901d134]" started-at="2022-11-28T17:17:03 IST" name="endTestMethod" finished-at="2022-11-28T17:17:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTestMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RestAPITestProject.RestAPITest@3901d134]" started-at="2022-11-28T17:17:03 IST" name="tearDown" finished-at="2022-11-28T17:17:03 IST" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- RestAPITestProject.RestAPITest -->
+    </test> <!-- C:/Users/sapna.gour/IdeaProjects/RestAPITestProject/src/test/java/Test1 -->
+  </suite> <!-- All Test1 Suite -->
+</testng-results>
